@@ -1,0 +1,10 @@
+h1{
+ color:#eab676;
+    font-size:  50px;
+    text-align: center;
+border: 30px double rgb(121, 128, 106);
+    
+}
+body{
+    background-color:hsl(184, 44%, 92%);
+}
